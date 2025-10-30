@@ -1,5 +1,4 @@
-🧾 COVER_NOTE.md
-Project Title
+
 
 LawVriksh Frontend Assignment — Dashboard
 
